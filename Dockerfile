@@ -15,6 +15,3 @@ USER airflow
 RUN pip install psycopg2-binary
 RUN pip install pandas
 RUN pip install requests
-RUN pip install python-dotenv
-
-
