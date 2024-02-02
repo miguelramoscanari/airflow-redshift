@@ -4,6 +4,9 @@
 Proyecto para automatizar un flujo de trabajo con Airflow y AWS RedShift. Automatizar el ETL con python y RedShift como BD con carga incremental. Utilizamos una API de cryptomonedas.
 
 # DAGs 
+
+![Image text](img/airflow_tareas.png)
+
 Se ha diseñado dos archivos python:
 - dags/cryptomoneda.py: Permite crear las tareas del DAGs
 - dags/utils.py: Codigo detalle de proceso ETL y carga incrementa a la BD RedShift.
@@ -31,7 +34,7 @@ Contraseña: Obtener la Contraseña de Airflow: Utiliza el siguiente comando par
 
 6. Configurar Variables en Airflow
 
-![Image text](img/airflow_variable.png)
+![Image text](img/airflow_variables.png)
 
 
 # Contacto
