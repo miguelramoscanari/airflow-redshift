@@ -1,7 +1,7 @@
 # AIRFLOW con AWS RedShift. Data Enginner
 
 # Introduccion
-Proyecto para automatizar un flujo de trabajo con Airflow y AWS RedShift. Automatizar el ETL con python y RedShift como BD con carga incremental. Utilizamos una API de cryptomonedas.
+Proyecto ETL y Automatizacion de Datawarehuse usando flujo de trabajo con Airflow y AWS RedShift como BD. Utilizamos una API de cryptomonedas como Data.
 
 # DAGs 
 
